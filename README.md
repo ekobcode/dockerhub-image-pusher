@@ -55,6 +55,10 @@ dockerhub-image-pusher/
    pip install -r requirements.txt
    ```
 
+4. **Image:**
+
+   ![App Screenshot](assets/screenshot.jpeg)
+
 ---
 
 ## ▶️ Run the App
